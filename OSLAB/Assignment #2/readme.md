@@ -1,4 +1,4 @@
-Write a menu driven shell script for the following options:
+1. Write a menu driven shell script for the following options:
 (i) Merging the contents of two files into another.
 (ii) Searching a pattern from a file.
 If the user gives some invalid choice, it will prompt “Invalid option” message.
