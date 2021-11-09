@@ -4,8 +4,9 @@
 3. Create a program to take user input from the Scanner class of student name, roll number, department.
 # Example 1
 class simple1{  
+    
     public static void main(){  
-     System.out.println("Welcome to STCET");  
+        System.out.println("Welcome to STCET");  
     }  
 }  
 # Example 2
