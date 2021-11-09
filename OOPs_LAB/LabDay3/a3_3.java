@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Soumyadeep Datta , Roll 26
-//Using class Student of Q1
+//Using class Student of a3_1
 public class a3_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
