@@ -1,2 +1,2 @@
-# STCET_5TH_SEM
-A repo for college assignments
+# STCET
+Repository for college assignments
