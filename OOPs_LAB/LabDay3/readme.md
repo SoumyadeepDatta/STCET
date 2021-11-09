@@ -6,6 +6,6 @@
 4. Create a class called shape which has members called calarea() and display(). Calculate the area for three different shapes: triangle (scalene triangle), rectangle and circle. Apply method overloading to control the area parameter and display the area through main.
 5. Create class sum and demonstrate constructor overloading py adding two, three parameters. If someone passes no parameter the message will display “ Bucket is empty”.
 # Questionnaire
-What is a constructor? Why is it called so?
-What happens if a programmer does not create any constructor?
-If we create 5 objects of a class, then how many time constructors will be called?
+\nWhat is a constructor? Why is it called so?
+\nWhat happens if a programmer does not create any constructor?
+\nIf we create 5 objects of a class, then how many time constructors will be called?
