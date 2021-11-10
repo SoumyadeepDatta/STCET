@@ -15,7 +15,9 @@ l.append("5") #a new element is added to the list
 ```
 Hence lists are mutable in nature.\
 **2. What are the advantages of using list compared to array in C?**\
-a.List can consists of various data types while an array can contain only one data type of elements.\
-b.Can be nested to contain different type of elements.\
-c.Greater flexibility allows easy modification (addition, deletion) of data.\
+```
+a.List can consists of various data types while an array can contain only one data type of elements.
+b.Can be nested to contain different type of elements.
+c.Greater flexibility allows easy modification (addition, deletion) of data.
 d.The entire list can be printed without using any loop.
+```
