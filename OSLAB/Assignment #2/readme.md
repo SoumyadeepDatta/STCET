@@ -35,4 +35,4 @@ If the user gives some invalid choice, it will prompt “Invalid option” messa
 29. Write a shell script to print all possible combinations of 3 numbers.\
 30. Write shell script to generate fibonacci series upto ‘n’.\
 31. Write shell script to generate non fibonacci series upto ‘n’.\
-32. Write a shell program to find factorial of given number.\
+32. Write a shell program to find factorial of given number.
