@@ -3,6 +3,7 @@
 chmod +x filename.sh
 ./filename.sh 
 ```
+# Miscellaneous
 1. Write a menu driven shell script for the following options:(i) Merging the contents of two files into another. (ii) Searching a pattern from a file.
 If the user gives some invalid choice, it will prompt “Invalid option” message.
 2. Write a shell script to check whether a given string is palindrome or not.
@@ -22,7 +23,7 @@ If the user gives some invalid choice, it will prompt “Invalid option” messa
 16. Write a shell program to find factorial of given number.
 17. Write shell script to generate fibonacci series upto ‘n’ .
 18. Write a shell script to sort the given numbers in descending order using Bubble sort.
-# Miscellaneous
+# Ignore duplicate questions
 **Part A**\
 19. Read a file from command line. Check whether it exists. If it does not create it. Print the permissions associated with the file.\
 20. Perform arithmetic operations on floating point numbers.\
