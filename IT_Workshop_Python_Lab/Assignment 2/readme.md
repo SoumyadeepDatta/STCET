@@ -1,7 +1,7 @@
 # ASSIGNMENT 2:
 1. Write a program which takes two integers as input. Print whether the two numbers are equal, less than, or greater than the other.
 2. Write pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours (Input: hours and rate).
-3. Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message. If the score is between 0.0 and 1.0, print a grade using the following table:
+3. Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message. If the score is between 0.0 and 1.0, print a grade using the following table:\
 &gt;= 0.9 A\
 &gt;= 0.8 B\
 &gt;= 0.7 C\
