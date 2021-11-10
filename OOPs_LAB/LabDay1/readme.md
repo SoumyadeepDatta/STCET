@@ -3,7 +3,7 @@
 2. Implement a program to compare three numbers and identify the largest.
 3. Create a program to take user input from the Scanner class of student name, roll number, department.
 # Example 1
-```
+```java
 class simple1{  
     public static void main(){  
         System.out.println("Welcome to STCET");  
@@ -11,7 +11,7 @@ class simple1{
 } 
 ```
 # Example 2
-```
+```java
 import java.util.Scanner;
 public class uip{
     public static void main(String[] args) {
