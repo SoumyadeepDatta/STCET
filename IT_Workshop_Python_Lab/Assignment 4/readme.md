@@ -3,7 +3,7 @@
 and punctuations in a given sentence.
 2. Write a program to print all non Fibonacci numbers within a range.
 3. Explain the output of the following snippet, if the inputted value is 25.
-```
+```python
 x=input(“Enter a number: ”)
 print(x*3)
 ```
