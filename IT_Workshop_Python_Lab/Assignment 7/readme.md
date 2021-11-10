@@ -8,7 +8,7 @@
 # Questionnaires:
 **1. Why lists are called mutable?**\
 Lists are mutable. i.e their value can be changed by adding or changing an element in it.
-```
+```python
 l=[1,2,3]
 l[1]="4" #this is completely fine & raise no error
 l.append("5") #a new element is added to the list
