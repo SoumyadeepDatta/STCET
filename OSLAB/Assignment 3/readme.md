@@ -1,5 +1,5 @@
 # HOW TO RUN .sh FILES : 
-```shell
+```bash
 chmod +x filename.sh
 ./filename.sh 
 ```
