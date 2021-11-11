@@ -6,7 +6,7 @@
 5. Write a program which will print the month name and first Monday in a given year.
 # Modules in Python
 6. Create a module which contains the functions as stated below.
-```
+```math
 a. F(x,y)=F(x-y,y)+1, if y ≤ x
 b. F(n,r)=F(n-1,r)+F(n-1,r-1)
 c. F(n)=F(n/2)+1 if n>1
