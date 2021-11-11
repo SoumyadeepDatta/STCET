@@ -19,10 +19,10 @@ e. B(m,x)=m!/(x!(m-x)!) where m>x, B(0,0)=B(m,0)=1 and B(m,x)=B(m,x-1)*[(m-x+1)/
 PIP is a package manager for Python packages & modules. If you have Python version 3.4 or later, PIP is included by default.
 ```
 2. How do you check whether it is installed or not?
-```bat
+```cmd
 pip --version
 ```
 3. How do you check which packages of Python are installed?
-```bat
+```cmd
 pip list
 ```
