@@ -1,0 +1,16 @@
+import creatures
+
+creatures.fish.examples()
+creatures.fish.characteristics()
+print()
+creatures.birds.examples()
+creatures.birds.characteristics()
+print()
+creatures.amphibians.examples()
+creatures.amphibians.characteristics()
+print()
+creatures.mammals.examples()
+creatures.mammals.characteristics()
+print()
+creatures.reptiles.examples()
+creatures.reptiles.characteristics()
