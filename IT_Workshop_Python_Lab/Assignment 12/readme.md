@@ -1,4 +1,4 @@
-# Assignment 12 - Python datetime 
+# Assignment 12 - Python datetime & calendar
 1. Import datetime module and print current date and time.
 2. Print a month by importing calendar module.
 3. Print the month names of calendar.
