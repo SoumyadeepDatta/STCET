@@ -13,3 +13,16 @@ c. F(n)=F(n/2)+1 if n>1
 d. F(M,N)=1 if M=0, or M ≥N ≥1, and F(M,N)=F(M-1,N)+F(M-1,N-1), otherwise.
 e. B(m,x)=m!/(x!(m-x)!) where m>x, B(0,0)=B(m,0)=1 and B(m,x)=B(m,x-1)*[(m-x+1)/x]
 ```
+# Questionnaires
+1. What is pip?
+```
+PIP is a package manager for Python packages & modules. If you have Python version 3.4 or later, PIP is included by default.
+```
+2. How do you check whether it is installed or not?
+```
+pip --version
+```
+3. How do you check which packages of Python are installed?
+```
+pip list
+```
