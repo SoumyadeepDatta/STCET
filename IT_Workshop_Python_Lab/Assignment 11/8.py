@@ -5,4 +5,11 @@ def factorial(x):
     return fact
 n = int(input("Enter n value: "))
 
-print(factorial(n))
+r = int(input("ENter r value: "))
+
+
+
+MA2 = factorial(n)/factorial(r)
+
+
+print("Answer for npr is: ",MA2)
