@@ -1,5 +1,5 @@
 # Process management in C (Using Linux Platform)
-How to run .c files in Linux
+How to run .c files in Linux Terminal
 ```
 gcc filename
 ./a.out
