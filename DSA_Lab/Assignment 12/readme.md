@@ -1,7 +1,7 @@
 # Circular Doubly Linked List (Contd.)
-#### Write a menu driven program in C which will perform the following operations on Circular Doubly Linked List.
-1. create a circular doubly linked list
-2. delete the first node
-3. delete the last node
-4. delete a node after a specific node
-5. display the list before and after each operation
+1. Write a menu driven program in C which will perform the following operations on Circular Doubly Linked List.\
+a. create a circular doubly linked list\
+b. delete the first node\
+c. delete the last node\
+d. delete a node after a specific node\
+e. display the list before and after each operation
