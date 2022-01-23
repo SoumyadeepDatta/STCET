@@ -17,4 +17,12 @@
 16. Obtain a complete listing of all files and directories in the whole system.
 17. Count the number of users currently logged into the system.
 18. When will rmdir xyz (assume xyz is directory) fail to work?
+```
+If there are already some files inside the directory 'rmdir' will not work. First we have to dlelete all those files which are inside 'xyz' using rmdir. 
+To delete a directory 'xyz' which already contains some files we can use 'rm -r xyz'.
+```
 19. What does cd do when used without arguments?
+```
+It takes back to home directory when used without arguments. 
+We can also use 'cd $HOME' to get the same effect.
+```
